@@ -1,0 +1,40 @@
+* {
+    font-family:'Courier New', Courier, monospace
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+.guacamole{
+    background-color: rgb(178, 243, 153);
+}
+
+.caesarSalad {
+    background-color: rgb(255, 247, 131);
+}
+
+.applePie {
+    background-color: bisque;
+}
+
+#recipes-home{
+    text-align: center;
+}
+
+.guacamole-heading {
+border-left: 5px outset rgb(255, 0, 0);
+background-color: rgb(252, 255, 83);
+}
+
+
+.applePie-heading {
+    border-left: 5px outset rgb(255, 196, 0);
+    background-color: rgb(255, 233, 111);
+}
+
+.caesarSalad-heading {
+    border-left: 5px outset rgb(157, 255, 0) ;
+    background-color: rgb(255, 231, 93);
+}
